@@ -10,3 +10,4 @@
 - What are the different methods of minimizing VR motion sickness in locomotion implementations
 - How to implement a teleportation method of movement in VR
 - How to implement interactive objects in VR
+ 
